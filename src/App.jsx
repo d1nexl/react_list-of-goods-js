@@ -32,7 +32,7 @@ function getPreparedGoods(goods, sortField, isReversed) {
         break;
 
       default:
-        return 0;
+        break;
     }
   }
 
